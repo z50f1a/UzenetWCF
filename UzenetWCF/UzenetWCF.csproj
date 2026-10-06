@@ -108,9 +108,9 @@
   <ItemGroup>
     <Content Include="SQL\uzenetkuldo.sql" />
     <Content Include="TESZT\teszt1.png" />
-    <Content Include="TESZT\teszt2.png" />
+    <Content Include="TESZT\teszt3.png" />
     <Content Include="TESZT\teszt4.png" />
-    <Content Include="TESZT\tezst3.png" />
+    <Content Include="TESZT\tezst2.png" />
     <Content Include="Web.config" />
     <Content Include="UzenetService.svc" />
   </ItemGroup>
